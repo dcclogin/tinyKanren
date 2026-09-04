@@ -1,0 +1,14 @@
+# Racket
+compiled/
+
+# Haskell
+*.hi
+*.o
+haskell/examples
+
+# Node
+node_modules/
+*.tsbuildinfo
+
+# macOS
+.DS_Store
